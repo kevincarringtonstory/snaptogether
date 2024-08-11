@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: 'snaptogether',
+  basePath: '/snaptogether',
   images: {
     unoptimized: true,
   },
